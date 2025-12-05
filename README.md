@@ -1,3 +1,5 @@
-kdg15.github.io
-===============
-trying to set up a hosted web-site
+# MitchKram
+
+This is the home of software developed by Brian Kramer.
+
+Please visit https://kdg15.github.io.
